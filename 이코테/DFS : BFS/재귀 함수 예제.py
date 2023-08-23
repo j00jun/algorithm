@@ -1,3 +1,4 @@
+# 재귀 구현 팩토리얼
 def recursive_function(i):
     if i == 100:
         return
@@ -6,5 +7,3 @@ def recursive_function(i):
     print(i, '번째 재귀 함수를 종료합니다.')
 
 recursive_function(1)
-
-# 
